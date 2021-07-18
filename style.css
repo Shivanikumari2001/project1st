@@ -1,0 +1,218 @@
+*{
+ margin: 0px; 
+ padding: 0px;
+ 
+}
+body{
+  background-size: cover;
+  background-image: url("./images/image4.png");
+  height: 600px;
+  background-repeat: no-repeat;
+}
+#navbar{
+  display: flex;
+  align-items: center;
+  background-color:black ;
+  height: 40px; 
+  border-radius:20px ;
+  
+}
+#navbar ul{
+  display: flex;
+  border: radius 30px; 
+}
+
+#navbar ul li{
+  list-style: none;
+  font-size: 1.3rem;
+
+ 
+}
+  
+#navbar ul li a{
+  display: block;
+  padding: 3px 22px;
+  border-radius: 20px;
+  text-decoration: none;
+ 
+}
+  
+#navbar ul li a:hover{
+  color: blue;
+  background-color: white;
+
+  
+}
+#home{
+  display: flex;
+  flex-direction: column;
+  padding: 3px 90px;
+  justify-content: center;
+  text-align: center;
+  font-size: 50px;
+  margin-top: 400px;
+  color:black;
+}
+.my-button{
+ width: 150px;
+ height: 50px;
+ font-size: 20px;
+  margin-left: 700px;
+}
+#secright{
+  margin-top:400px ;
+ height: 700px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+margin-left:40px ;
+margin-right: 10px;
+padding: 40px;
+}
+.imgfluid{
+  height: 300px; 
+  width:500px ;
+  margin-top:30px ;
+}
+.paras{
+  padding: 0px 55px ;
+  font: size 1px;
+}
+#fruitleft{
+  margin-top:5px ;
+  height:600px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+ margin-left:40px ;
+ margin-right: 10px;
+ padding: 30px;
+flex-direction: row-reverse;
+}
+.imgfluid2{
+  height: 400px; 
+  width:500px ;
+  margin-top:20px ;
+}
+.paras2{
+  padding: 0px 55px ;
+  font: size 1px;}
+  .Appleright{
+  margin-top:50px ;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ margin-left:40px ;
+ margin-right: 10px;
+ padding: 30px;
+
+}
+.imgfluid2{
+  height: 400px; 
+  width:400px ;
+  margin-top:30px ;
+}
+.paras2{
+  padding: 0px 55px ;
+  font: size 1px;
+}
+.flowersleft{
+  margin-top:20px ;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ margin-left:40px ;
+ margin-right: 10px;
+ padding: 30px;
+flex-direction: row-reverse;
+}
+.imgfluid2{
+  height: 400px; 
+  width:400px ;
+  margin-top:30px ;
+}
+.paras2{
+  padding: 0px 55px ;
+  font: size 1px;
+}
+ .Orangeright{
+  margin-top:50px ;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ margin-left:40px ;
+ margin-right: 10px;
+ padding: 30px;
+
+}
+.imgfluid2{
+  height: 400px; 
+  width:400px ;
+  margin-top:30px ;
+}
+.paras2{
+  padding: 0px 55px ;
+  font: size 1px;
+}
+#shivani{
+ margin-top:80px ;
+ height: 400px;
+ width: 800px; 
+ display: flex;
+ align-items: center;
+ justify-content: center;
+margin-left:300px ;
+margin-right: 10px;
+padding: 30px;
+border:30px;
+border-style: solid;
+ background-color :lightpink;
+ color: black;
+ 
+}
+.container2{
+  font-size:4.5rem ;
+}
+.container3{
+  margin-left:4px ;
+  font-size:1.8rem ;
+}
+#contact{
+  margin-top:20px ;
+  background-color: #f6f5f4;
+  height: 70vh;
+}
+.text-center{
+  text-align: center;
+  font-size:40px ;
+  margin-left:45px; 
+}
+.form{
+  max-width:500px; 
+  margin: auto;
+}
+.form input{
+  width:300px;
+height: 20px;
+padding:3px 0px ;
+ display: flex;
+font-size:18px;
+margin: 30px 0px; 
+margin-left:100px ; 
+border:2px solid grey ;
+border-radius:4px ;
+color: black;
+}
+.btn-dark{
+  height:30px ;
+  width:60px;
+  color: black;
+ 
+  margin-left:350px ;
+}
+.contact-input{
+  margin-left:100px; 
+}
